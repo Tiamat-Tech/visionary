@@ -27,7 +27,7 @@
 
 我们基于 Visionary 开发了一个功能强大的 [在线编辑器](https://ai4sports.opengvlab.com/index_visionary.html)，帮助用户一键轻松管理和编辑 3D 场景。如果想用本项目开发自己的 Web 项目，请参考 [快速开始](#quick-start)。
 
-![Teaser](teaser.png)
+![Teaser](assets/teaser.png)
 
 ## ✨ 项目特色
 
@@ -66,7 +66,8 @@ npm run dev
 👉 **http://localhost:3000/demo/index.html**
 
 ### 3. 模型资产
-
+![Teaser](assets/examples.PNG)
+![Teaser](assets/examples2.PNG)
 可以在页面中导入我们提供的示例资产[ (1)](https://drive.google.com/drive/folders/1nk5slXl-_-jRyDggXoBpRwz2VajmQizQ?usp=drive_link)[ (2)](https://drive.google.com/file/d/1qRYffgZxNyiJrh9mwwjEOr3uoxcbll0Q/view?usp=share_link)[ (3)](https://drive.google.com/file/d/1F4XGS1W4c3Kc13n4YaoDNxnWZqOfvlBJ/view?usp=share_link)，也可以在页面中导入自己的 3DGS/4DGS/Avatar 资产。4DGS/Avatar/自定义资产的制作详见[转化 ONNX](#convert-to-onnx)。
 
 <a id="convert-to-onnx"></a>
