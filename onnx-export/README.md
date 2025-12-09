@@ -414,7 +414,7 @@ Use the web-based [SuperSplat Editor](https://playcanvas.com/supersplat/editor) 
 Once you have generated your model (ONNX, PLY, Splat, etc.), you can visualize it using our viewer.
 
 **View Results:**
-Locate the generated ONNX model (typically in the `./outputs/onnx` directory for Avatar, or the path you specified in `--out` for 4DGS/Scaffold) and upload it to the [Visionary Website](https://visionary-laboratory.github.io/visionary/index_visionary.html).
+Locate the generated ONNX model (typically in the `./outputs/onnx` directory for Avatar, or the path you specified in `--out` for 4DGS/Scaffold) and upload it to the [Visionary Website](https://ai4sports.opengvlab.com/index_visionary.html).
 
 ---
 

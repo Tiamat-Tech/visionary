@@ -401,7 +401,7 @@ node util/create-ksplat.js input.ply output.ksplat
 一旦生成了模型（ONNX, PLY, Splat 等），您可以使用我们的查看器进行可视化。
 
 **查看结果：**
-找到生成的 ONNX 模型（通常在 Avatar 的 `./outputs/onnx` 目录中，或 4DGS/Scaffold 的 `--out` 指定路径中）并将其上传到 [Visionary 网站](https://visionary-laboratory.github.io/visionary/index_visionary.html)。
+找到生成的 ONNX 模型（通常在 Avatar 的 `./outputs/onnx` 目录中，或 4DGS/Scaffold 的 `--out` 指定路径中）并将其上传到 [Visionary 网站](https://ai4sports.opengvlab.com/index_visionary.html)。
 
 ---
 
