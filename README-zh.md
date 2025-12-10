@@ -27,7 +27,7 @@
 
 我们基于 Visionary 开发了一个功能强大的 [在线编辑器](https://ai4sports.opengvlab.com/index_visionary.html)，帮助用户一键轻松管理和编辑 3D 场景。如果想用本项目开发自己的 Web 项目，请参考 [快速开始](#quick-start)。
 
-![Teaser](assets/teaser.png)
+https://github.com/user-attachments/assets/6824de84-e4db-4c3f-90e8-1061ff309579
 
 ## ✨ 项目特色
 
