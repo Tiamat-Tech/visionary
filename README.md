@@ -41,6 +41,9 @@ https://github.com/user-attachments/assets/6824de84-e4db-4c3f-90e8-1061ff309579
   - **4DGS/Avatar/scaffold-GS**: ONNX
   - **<span style="font-family: 'Brush Script MT', cursive; font-size: 1.1em; color: #FF4500;">🔥Your own algorithom</span>**: See [Export your algorithm to ONNX](onnx-export/README.md) in detail.
 
+## News
+- We have updated a comprehensive demonstration for how to export your own customized onnx model: https://drive.google.com/file/d/1W8C1OINxDPUoiYtDi9KKz4AmwTcuVbKX/view
+
 
 ## WebGPU Requirements & Known Issues
 
