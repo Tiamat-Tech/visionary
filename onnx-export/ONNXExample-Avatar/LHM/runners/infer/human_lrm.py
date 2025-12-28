@@ -28,7 +28,7 @@ except:
     print("\033[31mNo SAM2 found! Try using rembg to remove the background. This may slightly degrade the quality of the results!\033[0m")
     from rembg import remove
 
-from LHM.datasets.cam_utils import (
+from LHM.lhm_datasets.cam_utils import (
     build_camera_principle,
     build_camera_standard,
     create_intrinsics,
